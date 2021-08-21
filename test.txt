@@ -1,0 +1,5 @@
+RFC	NumUsuario	Nombre	ApellidoPaterno	ApellidoMaterno	FechaControl	Salario
+123	131241312	Loco	Carim	sanches	sábado, 21 de agosto de 2021	5000
+12345	212312314	Briyan	None		sábado, 21 de agosto de 2021	5000
+48913	132142124	John	Male	dicj	sábado, 21 de agosto de 2021	5000
+12315	131245151	Jane	mary	dona	viernes, 20 de agosto de 2021	5000
