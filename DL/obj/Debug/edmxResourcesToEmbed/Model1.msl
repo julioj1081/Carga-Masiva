@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JFernandezTPModelStoreContainer" CdmEntityContainer="JFernandezTPEntities2">
+    <FunctionImportMapping FunctionImportName="AddUsuario" FunctionName="JFernandezTPModel.Store.AddUsuario" />
+    <FunctionImportMapping FunctionImportName="GetAllEmpleados" FunctionName="JFernandezTPModel.Store.GetAllEmpleados">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="JFernandezTPModel.GetAllEmpleados_Result">
+          <ScalarProperty Name="RFC" ColumnName="RFC" />
+          <ScalarProperty Name="NumUsuario" ColumnName="NumUsuario" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="FechaControl" ColumnName="FechaControl" />
+          <ScalarProperty Name="Salario" ColumnName="Salario" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DeleteUsuario" FunctionName="JFernandezTPModel.Store.DeleteUsuario" />
+    <FunctionImportMapping FunctionImportName="UpdateUsuario" FunctionName="JFernandezTPModel.Store.UpdateUsuario" />
+  </EntityContainerMapping>
+</Mapping>

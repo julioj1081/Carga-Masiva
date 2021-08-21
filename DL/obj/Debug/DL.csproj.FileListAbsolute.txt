@@ -1,0 +1,11 @@
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\DL.dll.config
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\DL.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\DL.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\EntityFramework.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\EntityFramework.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\obj\Debug\DL.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\DL\obj\Debug\DL.pdb

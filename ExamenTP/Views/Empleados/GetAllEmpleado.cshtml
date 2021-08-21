@@ -1,0 +1,87 @@
+﻿@model ML.Empleado
+@{
+    ViewBag.Title = "GetAllEmpleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int cont = 0;
+}
+
+<h2>GetAllEmpleado</h2>
+
+<div class="container">
+    <div style="width: 100%; display: flex; justify-content: space-between;">
+        <a class="btn btn-success glyphicon glyphicon-save" href="@Url.Action("AddEmpleado", "Empleados")"></a>
+        <a class="btn btn-primary glyphicon glyphicon-list" href="@Url.Action("ExcelReporte", "Empleados")">Empleados excel reporte</a>
+        <a class="btn btn-warning" href="@Url.Action("JsonReporte", "Empleados")">Json Reporte</a>
+    </div>
+
+    <div class="row">
+        <table class="table table-bordered table-hover table-responsive">
+            <thead class="text-center">
+                <tr>
+                    <td>Modificar</td>
+                    <td>RFC</td>
+                    <td>NumUsuario</td>
+                    <td>Nombre</td>
+                    <td>Apellido Paterno</td>
+                    <td>Apellido Materno</td>
+                    <td>Fecha de Control</td>
+                    <td>Salario</td>
+                    <td>Eliminar</td>
+                    <td colspan="3">Reporte</td>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                <!---->  
+                @foreach (ML.Empleado usuario in Model.Empleados)
+                {
+              
+                <tr id='item @cont'>
+                    <td><a class="btn btn-warning glyphicon glyphicon-edit" href="@Url.Action("GetEmpleado", "Empleados", new { RFC = usuario.RFC })"></a></td>
+                    <td class="info">@usuario.RFC</td>
+                    <td class="info">@usuario.NumeroEmpleado</td>
+                    <td class="info">@usuario.Nombre</td>
+                    <td class="info">@usuario.ApellidoPaterno</td>
+                    <td class="info">@usuario.ApellidoMaterno</td>
+                    <td class="info">@usuario.FechaControl</td>
+                    <td class="info">@usuario.Salario</td>
+                    <td><a class="btn btn-danger glyphicon glyphicon-trash" href="@Url.Action("Delete", "Empleados", new { RFC = usuario.RFC })"></a></td>
+
+                    <td>
+                        <a class="btn btn-info" href="@Url.Action("XMLReporte", "Empleados", new { RFC = usuario.RFC })">XML</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-default" href="@Url.Action("TxtReporte", "Empleados", new { RFC = usuario.RFC })">TXT</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-success" href="@Url.Action("ExcReporte", "Empleados", new { RFC = usuario.RFC })">Exc</a>
+                    </td>
+                    <td>
+                        <button onclick="Copy(@cont)">Copy</button>
+                    </td>
+                </tr>
+                    cont++;
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    function Copy(cont) {
+        var selectdiv = document.getElementById("item " + cont);
+        var elemtdiv = selectdiv.getElementsByClassName("info");
+        let RFC, NumUsuario, Nombre, ApellidoPaterno, ApellidoMaterno, FechaControl, Salario;
+        RFC = elemtdiv[0].textContent;
+        NumUsuario = elemtdiv[1].textContent;
+        Nombre = elemtdiv[2].textContent;
+        ApellidoPaterno = elemtdiv[3].textContent;
+        ApellidoMaterno = elemtdiv[4].textContent;
+        FechaControl = elemtdiv[5].textContent;
+        Salario = elemtdiv[6].textContent;
+
+        let formato = RFC +" "+ NumUsuario +" "+ Nombre +" "+ ApellidoPaterno +" "+ ApellidoMaterno +" "+ FechaControl +" "+ Salario
+        navigator.clipboard.writeText(formato);
+
+        console.log(RFC, NumUsuario, Nombre, ApellidoPaterno, ApellidoMaterno, FechaControl, Salario);
+    }
+</script>

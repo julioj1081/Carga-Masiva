@@ -1,0 +1,62 @@
+﻿@model ML.Empleado
+@{
+    ViewBag.Title = "GetEmpleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetEmpleado</h2>
+
+<div class="container">
+    <div class="row">
+        @using (Html.BeginForm("Update", "Empleados", FormMethod.Post))
+        {
+            <div class="form">
+                <form class="login-form">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.RFC, new { @class="hidden"})
+                        @Html.TextBoxFor(model => model.RFC, new { @class = "hidden" })
+                        @Html.ValidationMessageFor(model => model.RFC)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.NumeroEmpleado)
+                        @Html.TextBoxFor(model => model.NumeroEmpleado, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.NumeroEmpleado)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Nombre)
+                        @Html.TextBoxFor(model => model.Nombre, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Nombre)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.ApellidoPaterno)
+                        @Html.TextBoxFor(model => model.ApellidoPaterno, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ApellidoPaterno)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.ApellidoMaterno)
+                        @Html.TextBoxFor(model => model.ApellidoMaterno, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ApellidoMaterno)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.FechaControl)
+                        @Html.TextBoxFor(model => model.FechaControl, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.FechaControl)
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Salario)
+                        @Html.TextBoxFor(model => model.Salario, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Salario)
+                    </div>
+
+                    <input type="submit" class="btn btn-success" value="Modificar" />
+                </form>
+            </div>
+        }
+    </div>
+</div>

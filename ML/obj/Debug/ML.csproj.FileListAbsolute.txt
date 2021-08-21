@@ -1,0 +1,11 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ML\bin\Debug\ML.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ML\bin\Debug\ML.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ML\obj\Debug\ML.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ML\obj\Debug\ML.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\bin\Debug\ML.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\bin\Debug\ML.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\obj\Debug\ML.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ML\obj\Debug\ML.pdb

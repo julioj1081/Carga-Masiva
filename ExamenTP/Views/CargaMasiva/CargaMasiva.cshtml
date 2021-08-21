@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "CargaMasiva";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="form-group">
+            <h2 style="float:right;">CargaMasiva</h2>
+            <div style="display:flex; justify-content:space-between;">
+         
+                @using (Html.BeginForm("Carga", "CargaMasiva", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <div class="form-inline">
+                        <h4>Ingresa un archivo txt</h4>
+                        <input type="file" value="Ingresa un archivo Txt" name="archivoTXT" />
+
+                        <br />
+                        <input class="btn btn-success" type="submit" value="Subir a la base de datos" />
+                    </div>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+

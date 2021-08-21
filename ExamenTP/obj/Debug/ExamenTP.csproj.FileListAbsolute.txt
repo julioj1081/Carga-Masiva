@@ -1,0 +1,129 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\ExamenTP.dll.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\ExamenTP.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\ExamenTP.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Antlr3.Runtime.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\BL.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\EntityFramework.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\EntityFramework.SqlServer.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\ML.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Newtonsoft.Json.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Owin.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Helpers.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Mvc.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Optimization.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Razor.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\WebGrease.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\DL.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\BL.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\ML.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Helpers.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Mvc.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Optimization.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.Razor.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Antlr3.Runtime.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Newtonsoft.Json.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\EntityFramework.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\EntityFramework.SqlServer.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\bin\DL.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\obj\Debug\ExamenTP.dll
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\ExamenTP\ExamenTP\obj\Debug\ExamenTP.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\ExamenTP.dll.config
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\ExamenTP.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\ExamenTP.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Antlr3.Runtime.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\BL.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\EntityFramework.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\EntityFramework.SqlServer.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\ML.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Newtonsoft.Json.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Owin.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Helpers.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Mvc.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Optimization.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Razor.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.Razor.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\WebGrease.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\DL.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\BL.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\BL.dll.config
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\ML.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Helpers.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Mvc.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Optimization.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.Razor.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\System.Web.WebPages.Razor.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Antlr3.Runtime.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Newtonsoft.Json.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\EntityFramework.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\EntityFramework.SqlServer.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\DL.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\DL.dll.config
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\obj\Debug\ExamenTP.csproj.CopyComplete
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\obj\Debug\ExamenTP.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\obj\Debug\ExamenTP.pdb
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\DocumentFormat.OpenXml.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\SpreadsheetLight.dll
+C:\Users\julio\Desktop\Proyecto Digist\generacion de txt y xml\ExamenTP\ExamenTP\bin\SpreadsheetLight.xml

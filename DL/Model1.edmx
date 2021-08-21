@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="JFernandezTPModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="AddUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="RFC" Type="varchar" Mode="In" />
+          <Parameter Name="NumUsuario" Type="int" Mode="In" />
+          <Parameter Name="Nombre" Type="varchar" Mode="In" />
+          <Parameter Name="ApellidoPaterno" Type="varchar" Mode="In" />
+          <Parameter Name="ApellidoMaterno" Type="varchar" Mode="In" />
+          <Parameter Name="FechaControl" Type="date" Mode="In" />
+          <Parameter Name="Salario" Type="money" Mode="In" />
+        </Function>
+        <Function Name="DeleteUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="RFC" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="GetAllEmpleados" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="UpdateUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="RFC" Type="varchar" Mode="In" />
+          <Parameter Name="NumUsuario" Type="int" Mode="In" />
+          <Parameter Name="Nombre" Type="varchar" Mode="In" />
+          <Parameter Name="ApellidoPaterno" Type="varchar" Mode="In" />
+          <Parameter Name="ApellidoMaterno" Type="varchar" Mode="In" />
+          <Parameter Name="FechaControl" Type="date" Mode="In" />
+          <Parameter Name="Salario" Type="money" Mode="In" />
+        </Function>
+        <EntityContainer Name="JFernandezTPModelStoreContainer" />
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="JFernandezTPModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="JFernandezTPEntities2" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="AddUsuario">
+            <Parameter Name="RFC" Mode="In" Type="String" />
+            <Parameter Name="NumUsuario" Mode="In" Type="Int32" />
+            <Parameter Name="Nombre" Mode="In" Type="String" />
+            <Parameter Name="ApellidoPaterno" Mode="In" Type="String" />
+            <Parameter Name="ApellidoMaterno" Mode="In" Type="String" />
+            <Parameter Name="FechaControl" Mode="In" Type="DateTime" />
+            <Parameter Name="Salario" Mode="In" Type="Decimal" />
+          </FunctionImport>
+          <FunctionImport Name="GetAllEmpleados" ReturnType="Collection(JFernandezTPModel.GetAllEmpleados_Result)" />
+          <FunctionImport Name="DeleteUsuario">
+          <Parameter Name="RFC" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="UpdateUsuario">
+            <Parameter Name="RFC" Mode="In" Type="String" />
+            <Parameter Name="NumUsuario" Mode="In" Type="Int32" />
+            <Parameter Name="Nombre" Mode="In" Type="String" />
+            <Parameter Name="ApellidoPaterno" Mode="In" Type="String" />
+            <Parameter Name="ApellidoMaterno" Mode="In" Type="String" />
+            <Parameter Name="FechaControl" Mode="In" Type="DateTime" />
+            <Parameter Name="Salario" Mode="In" Type="Decimal" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="GetAllEmpleados_Result">
+          <Property Type="String" Name="RFC" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="NumUsuario" Nullable="true" />
+          <Property Type="String" Name="Nombre" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="ApellidoPaterno" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="ApellidoMaterno" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="FechaControl" Nullable="true" MaxLength="30" />
+          <Property Type="Decimal" Name="Salario" Nullable="true" Precision="19" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="JFernandezTPModelStoreContainer" CdmEntityContainer="JFernandezTPEntities2" >
+          <FunctionImportMapping FunctionImportName="AddUsuario" FunctionName="JFernandezTPModel.Store.AddUsuario" />
+          <FunctionImportMapping FunctionImportName="GetAllEmpleados" FunctionName="JFernandezTPModel.Store.GetAllEmpleados">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="JFernandezTPModel.GetAllEmpleados_Result">
+                <ScalarProperty Name="RFC" ColumnName="RFC" />
+                <ScalarProperty Name="NumUsuario" ColumnName="NumUsuario" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+                <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+                <ScalarProperty Name="FechaControl" ColumnName="FechaControl" />
+                <ScalarProperty Name="Salario" ColumnName="Salario" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="DeleteUsuario" FunctionName="JFernandezTPModel.Store.DeleteUsuario" />
+          <FunctionImportMapping FunctionImportName="UpdateUsuario" FunctionName="JFernandezTPModel.Store.UpdateUsuario" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
